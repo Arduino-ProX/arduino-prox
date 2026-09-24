@@ -30,7 +30,7 @@ Program ESP32 projects directly from your Android device.
 
 ### ESP8266
 
-Develop and upload ESP8266 projects without requiring a traditional desktop computer.
+Develop and upload ESP8266 projects directly from your Android device.
 
 ## 📱 Why Arduino ProX?
 
@@ -54,17 +54,24 @@ Get Arduino ProX from Google Play:
 
 ## 📚 Documentation
 
-Documentation is being organized to help users get started quickly.
+Start here if you're new to Arduino ProX:
 
-- Getting Started
-- Arduino Setup
-- ESP32 Setup
-- ESP8266 Setup
-- USB / OTG Programming
-- SDK Installation
-- Library Management
-- Troubleshooting
-- Common Errors and Solutions
+- [Getting Started](docs/getting-started.md)
+
+### Board Guides
+
+- [Arduino Development](docs/arduino.md)
+- [ESP32 Development](docs/esp32.md)
+- [ESP8266 Development](docs/esp8266.md)
+
+### Setup & Configuration
+
+- [USB / OTG Programming](docs/usb-otg.md)
+- [SDK Management](docs/sdk.md)
+
+### Troubleshooting
+
+- [Troubleshooting Guide](docs/troubleshooting.md)
 
 ## 🐛 Support
 
@@ -74,18 +81,23 @@ Please include:
 
 - Android device model
 - Android version
-- Board name
 - Arduino ProX version
+- Board name
+- SDK/platform
 - What you were trying to do
-- Error message
+- Complete error message
 - Screenshot or log, if available
 
 This helps the Arduino ProX team investigate the issue more efficiently.
 
+### Report an Issue
+
+**[Open an issue on GitHub →](https://github.com/Arduino-ProX/arduino-prox/issues)**
+
 ## 🔗 Links
 
 - **[Google Play](https://play.google.com/store/apps/details?id=com.microdev.arduinoprox)**
-- **[GitHub](https://github.com/Arduino-ProX)**
+- **[GitHub Organization](https://github.com/Arduino-ProX)**
 
 ---
 
